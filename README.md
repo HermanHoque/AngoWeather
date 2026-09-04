@@ -25,3 +25,5 @@ linux -> source .venv/bin/activate
 macOS -> source .venv/bin/activate
 
 Inicia o servidor Django com -> python manage.py runserver
+
+endereço -> http://127.0.0.1:8000/angoweather/
