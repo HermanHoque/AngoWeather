@@ -7,7 +7,7 @@
       const weatherIcon = document.getElementById('weather-icon');
 
       // Endereço base API Django rodando localmente
-      const DJANGO_API_URL = '/angoweather/api/';
+      const DJANGO_API_URL = 'https://angoweather.onrender.com/angoweather/api';
 
       // INICIALIZAÇÃO: Pedir geolocalização ao abrir a página
       window.addEventListener('DOMContentLoaded', () => {
