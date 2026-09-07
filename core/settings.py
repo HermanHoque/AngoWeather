@@ -127,6 +127,8 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'templates/static')]
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+# Pasta onde o Django junta os ficheiros estáticos para produção (Deploy)
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 
 # Email
