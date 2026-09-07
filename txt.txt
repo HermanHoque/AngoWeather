@@ -2,3 +2,4 @@ uv sync --frozen && uv cache prune --ci && python manage.py migrate && python ma
 
 
 uv add gunicorn
+uv add whitenoise
