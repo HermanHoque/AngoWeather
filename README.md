@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-6.x-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/uv-0.x-DE5FE9?style=for-the-badge" alt="uv">
   <img src="https://img.shields.io/badge/Open--Meteo-API-4CAF50?style=for-the-badge" alt="Open-Meteo API">
-  <img src="https://img.shields.io/badge/uv-Package_Manager-DE5FE9?style=for-the-badge" alt="uv">
 </p>
 
 ---
