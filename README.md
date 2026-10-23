@@ -202,6 +202,6 @@ Substitui `TEU_USERNAME` pelo teu nome de utilizador real no GitHub.
 ---
 
 <p align="center">
-  <sub>AngoWeather — Projeto de aprendizagem e desenvolvimento web com Python, Django e Open-Meteo.</sub>
+  <sub>AngoWeather — Projeto de aprendizagem e desenvolvimento web com API.</sub>
 </p>
 
