@@ -26,8 +26,6 @@ O projeto foi criado como uma oportunidade de aprendizagem e prática no desenvo
 - 🔗 **Integração com API externa:** obtenção de dados meteorológicos através de uma fonte externa.
 - 🐍 **Desenvolvimento com Django:** utilização de Python e Django na construção da aplicação web.
 
-> A disponibilidade de cada funcionalidade depende da implementação atual do projeto e dos dados efetivamente apresentados pela aplicação.
-
 ## 🛠️ Tecnologias utilizadas
 
 | Tecnologia | Finalidade |
@@ -160,23 +158,7 @@ Este projeto permite praticar conceitos importantes de desenvolvimento web, nome
 
 ## 🖼️ Demonstração
 
-Para melhorar a apresentação do repositório, adiciona capturas de ecrã reais da aplicação nesta secção.
-
-Exemplo de organização dos ficheiros:
-
-```text
-AngoWeather/
-├── README.md
-└── screenshots/
-    ├── pagina-inicial.png
-    └── previsao-meteorologica.png
-```
-
-Depois de adicionares as imagens, podes apresentá-las assim:
-
-```markdown
-![Página inicial do AngoWeather](screenshots/pagina-inicial.png)
-```
+![Página inicial do AngoWeather](screenshots/main_screen.png)
 
 ## 🗺️ Melhorias futuras
 
