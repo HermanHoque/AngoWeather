@@ -159,17 +159,7 @@ Este projeto permite praticar conceitos importantes de desenvolvimento web, nome
 ## 🖼️ Demonstração
 
 ![Página inicial do AngoWeather](screenshots/main_screen.png)
-
-## 🗺️ Melhorias futuras
-
-Algumas possibilidades de evolução do projeto:
-
-- [ ] Melhorar a pesquisa de localidades.
-- [ ] Apresentar previsões meteorológicas para diferentes períodos.
-- [ ] Melhorar a apresentação dos dados meteorológicos.
-- [ ] Adicionar testes automatizados.
-- [ ] Melhorar o tratamento de erros da API.
-- [ ] Documentar a arquitetura e os endpoints da aplicação, caso existam.
+![Página AngoWeather](screenshots/screen.png)
 
 ## 👨‍💻 Autor
 
@@ -177,9 +167,7 @@ Algumas possibilidades de evolução do projeto:
 
 Estudante e programador interessado em desenvolvimento web, APIs e cibersegurança.
 
-- GitHub: [Visitar o meu perfil](https://github.com/TEU_USERNAME)
-
-Substitui `TEU_USERNAME` pelo teu nome de utilizador real no GitHub.
+- GitHub: [Visitar o meu perfil](https://github.com/HermanHoque)
 
 ---
 
